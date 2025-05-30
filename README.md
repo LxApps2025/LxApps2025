@@ -1,7 +1,47 @@
-## GitHub Stats
+# 👋 Welcome to LxApps
 
-<a href="http://www.github.com/LxApps2025"><img src="https://github-readme-stats.vercel.app/api?username=LxApps2025&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LxApps2025's GitHub stats" /></a>
+🚀 **We build the tools that empower your business.**
 
-<a href="http://www.github.com/LxApps2025"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LxApps2025&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+LxApps is a software development company focused on creating tailored solutions for modern businesses. From SaaS platforms to full-stack web apps and mobile solutions, we help ideas become scalable realities.
 
-<a href="https://github.com/LxApps2025" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LxApps2025&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 💡 What We Do
+
+- 🌐 **Web Development** – Custom websites, portals, and dashboards
+- 📱 **Mobile Apps** – Android & iOS (native + cross-platform)
+- 🔌 **APIs & Integrations** – Stripe, Moloni, Firebase, and more
+- 🛠️ **Business Tools** – CRMs, internal platforms, queue systems
+- 📊 **Analytics & Automation** – From data dashboards to workflow automation
+
+---
+
+## 🔍 Our Tech Stack
+
+We work with the latest and most reliable technologies:
+
+- **Frontend:** React, Next.js, Tailwind, Vite
+- **Backend:** Node.js, Express, Firebase, MongoDB, PostgreSQL
+- **Infra:** Google Cloud, Vercel, Cloudflare, Docker, Firebase Hosting
+- **Payments:** Stripe, MB WAY, Moloni, PayPal
+- **Other:** GitHub Actions, APIs, AI integrations
+
+---
+
+## 🤝 Let’s Work Together
+
+We love solving challenges and building smart, scalable solutions.  
+If you’re a business owner, startup, or agency looking for:
+
+- 🔧 Custom development
+- 📦 Product launch support
+- 🤖 AI-enhanced tools
+
+→ Let’s talk!
+
+📧 **contact@lxapps.com**  
+🌍 [www.lxapps.com](https://www.lxapps.com)
+
+---
+
+> 🧠 _Built with passion. Fueled by curiosity. Focused on results._
